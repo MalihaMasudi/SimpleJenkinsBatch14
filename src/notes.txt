@@ -1,0 +1,6 @@
+CI/CD:
+    Continues integration and continue development(CI & CD).
+    All the software that we use weather its website or app or any operating system.
+    They are in
+
+
